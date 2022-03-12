@@ -1,4 +1,4 @@
- //add item to to-do list
+ //add item to to-do list 
  function newItem(){
 
     //create <li> on document
